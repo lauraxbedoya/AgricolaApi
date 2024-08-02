@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agricola.Api", "Agricola.Api\Agricola.Api.csproj", "{FA2AC4B9-2351-414A-8814-D486CBC4C6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agricola.Application", "Agricola.Application\Agricola.Application.csproj", "{48F245BC-5525-4222-ADF7-F4C2FC4651A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agricola.Domain", "Agricola.Domain\Agricola.Domain.csproj", "{127E84F0-D276-4C20-AC68-BC1AD2BB674C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agricola.Infrastructure", "Agricola.Infrastructure\Agricola.Infrastructure.csproj", "{607FBA73-C87C-4676-9113-EBA7F6033DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2AC4B9-2351-414A-8814-D486CBC4C6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2AC4B9-2351-414A-8814-D486CBC4C6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2AC4B9-2351-414A-8814-D486CBC4C6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2AC4B9-2351-414A-8814-D486CBC4C6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F245BC-5525-4222-ADF7-F4C2FC4651A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F245BC-5525-4222-ADF7-F4C2FC4651A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F245BC-5525-4222-ADF7-F4C2FC4651A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F245BC-5525-4222-ADF7-F4C2FC4651A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127E84F0-D276-4C20-AC68-BC1AD2BB674C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127E84F0-D276-4C20-AC68-BC1AD2BB674C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127E84F0-D276-4C20-AC68-BC1AD2BB674C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127E84F0-D276-4C20-AC68-BC1AD2BB674C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607FBA73-C87C-4676-9113-EBA7F6033DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607FBA73-C87C-4676-9113-EBA7F6033DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607FBA73-C87C-4676-9113-EBA7F6033DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607FBA73-C87C-4676-9113-EBA7F6033DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
